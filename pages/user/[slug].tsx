@@ -233,7 +233,7 @@ function User() {
           </div>
           <div className="flex flex-row usm:flex-col">
             <div className="w-3/5 usm:mb-4 usm:w-full px-8">
-              <div className="title text-2xl font-semibold mt-8">
+              <div className="text-3xl font-semibold mt-8">
                 Send some tea money to {usern}
               </div>
               <div className="text-[18px] font-medium mt-5 text-[#838383]">
